@@ -12,7 +12,7 @@ github_repo: # "https://github.com/qiubaiying/qiubaiying.github.io.git" # you co
 # Sidebar settings 侧边栏
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "加油 正能量!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/head.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
